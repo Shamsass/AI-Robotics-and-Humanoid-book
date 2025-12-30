@@ -1,5 +1,5 @@
 ---
-title: Chapter 04 Capstone Project: Autonomous Humanoid Robot System
+title: "Chapter 04 Capstone Project: Autonomous Humanoid Robot System"
 ---
 
 ## Introduction
